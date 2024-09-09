@@ -1,6 +1,6 @@
 Init IS310 Coding Assignment
 
-Discord User:
+Discord User:sam_sokolovsky
 Hypothesis User:sam_sokolovsky
 
 ![VS Code installation](images/Screenshot%202024-09-09%20at%203.44.43%20PM.png)
