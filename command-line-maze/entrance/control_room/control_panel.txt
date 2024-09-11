@@ -1,0 +1,1 @@
+The control panel shows a map of the station. You see paths to the laboratory and the engine room.
