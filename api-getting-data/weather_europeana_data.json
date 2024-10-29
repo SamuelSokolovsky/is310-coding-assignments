@@ -1,0 +1,2700 @@
+{
+    "Weather Data": {
+        "coord": {
+            "lon": 2.3488,
+            "lat": 48.8534
+        },
+        "weather": [
+            {
+                "id": 741,
+                "main": "Fog",
+                "description": "fog",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 10.82,
+            "feels_like": 10.54,
+            "temp_min": 10.21,
+            "temp_max": 11.77,
+            "pressure": 1026,
+            "humidity": 99,
+            "sea_level": 1026,
+            "grnd_level": 1016
+        },
+        "visibility": 650,
+        "wind": {
+            "speed": 2.57,
+            "deg": 230
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1730172728,
+        "sys": {
+            "type": 2,
+            "id": 2012208,
+            "country": "FR",
+            "sunrise": 1730183584,
+            "sunset": 1730219721
+        },
+        "timezone": 3600,
+        "id": 2988507,
+        "name": "Paris",
+        "cod": 200
+    },
+    "Europeana Data": [
+        {
+            "completeness": 7,
+            "country": [
+                "Denmark"
+            ],
+            "dataProvider": [
+                "The Royal Library: The National Library of Denmark and Copenhagen University Library"
+            ],
+            "dcDescription": [
+                "\u00c6gtef\u00e6lle: Fog, Carl David, sognepr\u00e6st (1812-1878)",
+                "Spouse: Fog, Carl David, parish priest (1812-1878)",
+                "\u00c6gtef\u00e6lle: Fog, Carl David, sognepr\u00e6st (1812-1878)"
+            ],
+            "dcDescriptionLangAware": {
+                "def": [
+                    "\u00c6gtef\u00e6lle: Fog, Carl David, sognepr\u00e6st (1812-1878)"
+                ],
+                "en": [
+                    "Spouse: Fog, Carl David, parish priest (1812-1878)"
+                ],
+                "da": [
+                    "\u00c6gtef\u00e6lle: Fog, Carl David, sognepr\u00e6st (1812-1878)"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Frederikke Fog"
+                ],
+                "en": [
+                    "Frederikke Fog"
+                ],
+                "da": [
+                    "Frederikke Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/48"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                },
+                {
+                    "def": "Valokuva"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotoatt\u0113ls"
+                },
+                {
+                    "def": "Photographie"
+                },
+                {
+                    "def": "F\u00e9nyk\u00e9p"
+                },
+                {
+                    "def": "Fotograf"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Grianghraf"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                },
+                {
+                    "def": "Photograph"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotograf\u00eda"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Argazkilaritza"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Foto"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Fotografie"
+                ],
+                "ru": [
+                    "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                ],
+                "fi": [
+                    "Valokuva"
+                ],
+                "pt": [
+                    "Fotografia"
+                ],
+                "bg": [
+                    "\u0421\u043d\u0438\u043c\u043a\u0430"
+                ],
+                "lt": [
+                    "Fotografija"
+                ],
+                "hr": [
+                    "Fotografija"
+                ],
+                "lv": [
+                    "Fotoatt\u0113ls"
+                ],
+                "fr": [
+                    "Photographie"
+                ],
+                "hu": [
+                    "F\u00e9nyk\u00e9p"
+                ],
+                "sk": [
+                    "Fotograf"
+                ],
+                "sl": [
+                    "Fotografija"
+                ],
+                "ga": [
+                    "Grianghraf"
+                ],
+                "ca": [
+                    "Fotografia"
+                ],
+                "sv": [
+                    "Fotografi"
+                ],
+                "mt": [
+                    "Fotografija"
+                ],
+                "el": [
+                    "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                ],
+                "en": [
+                    "Photograph"
+                ],
+                "it": [
+                    "Foto"
+                ],
+                "es": [
+                    "Fotograf\u00eda"
+                ],
+                "et": [
+                    "Foto"
+                ],
+                "cs": [
+                    "Fotografie"
+                ],
+                "eu": [
+                    "Argazkilaritza"
+                ],
+                "pl": [
+                    "Fotografia"
+                ],
+                "da": [
+                    "Fotografi"
+                ],
+                "ro": [
+                    "Fotografie"
+                ],
+                "nl": [
+                    "Foto"
+                ]
+            },
+            "edmDatasetName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "edmIsShownAt": [
+                "http://www.kb.dk/images/billed/2010/okt/billeder/object452465/en/"
+            ],
+            "edmIsShownBy": [
+                "http://kb-images.kb.dk/DAMJP2/DAM/Samlingsbilleder/0000/452/465/DP008906/full/full/0/native.jpg"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fkb-images.kb.dk%2FDAMJP2%2FDAM%2FSamlingsbilleder%2F0000%2F452%2F465%2FDP008906%2Ffull%2Ffull%2F0%2Fnative.jpg&type=IMAGE"
+            ],
+            "europeanaCollectionName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "europeanaCompleteness": 7,
+            "guid": "https://www.europeana.eu/item/92023/images_billed_2010_okt_billeder_object452465?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/92023/images_billed_2010_okt_billeder_object452465",
+            "index": 0,
+            "language": [
+                "da"
+            ],
+            "link": "https://api.europeana.eu/record/92023/images_billed_2010_okt_billeder_object452465.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "DK-National Aggregation Service"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 98.672424,
+            "timestamp": 1688602852674,
+            "timestamp_created": "2018-02-08T15:59:44.367Z",
+            "timestamp_created_epoch": 1518105584367,
+            "timestamp_update": "2018-06-13T06:53:28.934Z",
+            "timestamp_update_epoch": 1528872808934,
+            "title": [
+                "Frederikke Fog",
+                "Frederikke Fog",
+                "Frederikke Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 6,
+            "country": [
+                "Denmark"
+            ],
+            "dataProvider": [
+                "The Royal Library: The National Library of Denmark and Copenhagen University Library"
+            ],
+            "dcDescription": [
+                "Spouse: Fog, Carl, parish priest (1809-1885)",
+                "\u00c6gtef\u00e6lle: Fog, Carl, sognepr\u00e6st (1809-1885)",
+                "\u00c6gtef\u00e6lle: Fog, Carl, sognepr\u00e6st (1809-1885)"
+            ],
+            "dcDescriptionLangAware": {
+                "def": [
+                    "\u00c6gtef\u00e6lle: Fog, Carl, sognepr\u00e6st (1809-1885)"
+                ],
+                "en": [
+                    "Spouse: Fog, Carl, parish priest (1809-1885)"
+                ],
+                "da": [
+                    "\u00c6gtef\u00e6lle: Fog, Carl, sognepr\u00e6st (1809-1885)"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Emmy Fog"
+                ],
+                "en": [
+                    "Emmy Fog"
+                ],
+                "da": [
+                    "Emmy Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/48"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                },
+                {
+                    "def": "Valokuva"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotoatt\u0113ls"
+                },
+                {
+                    "def": "Photographie"
+                },
+                {
+                    "def": "F\u00e9nyk\u00e9p"
+                },
+                {
+                    "def": "Fotograf"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Grianghraf"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                },
+                {
+                    "def": "Photograph"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotograf\u00eda"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Argazkilaritza"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Foto"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Fotografie"
+                ],
+                "ru": [
+                    "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                ],
+                "fi": [
+                    "Valokuva"
+                ],
+                "pt": [
+                    "Fotografia"
+                ],
+                "bg": [
+                    "\u0421\u043d\u0438\u043c\u043a\u0430"
+                ],
+                "lt": [
+                    "Fotografija"
+                ],
+                "hr": [
+                    "Fotografija"
+                ],
+                "lv": [
+                    "Fotoatt\u0113ls"
+                ],
+                "fr": [
+                    "Photographie"
+                ],
+                "hu": [
+                    "F\u00e9nyk\u00e9p"
+                ],
+                "sk": [
+                    "Fotograf"
+                ],
+                "sl": [
+                    "Fotografija"
+                ],
+                "ga": [
+                    "Grianghraf"
+                ],
+                "ca": [
+                    "Fotografia"
+                ],
+                "sv": [
+                    "Fotografi"
+                ],
+                "mt": [
+                    "Fotografija"
+                ],
+                "el": [
+                    "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                ],
+                "en": [
+                    "Photograph"
+                ],
+                "it": [
+                    "Foto"
+                ],
+                "es": [
+                    "Fotograf\u00eda"
+                ],
+                "et": [
+                    "Foto"
+                ],
+                "cs": [
+                    "Fotografie"
+                ],
+                "eu": [
+                    "Argazkilaritza"
+                ],
+                "pl": [
+                    "Fotografia"
+                ],
+                "da": [
+                    "Fotografi"
+                ],
+                "ro": [
+                    "Fotografie"
+                ],
+                "nl": [
+                    "Foto"
+                ]
+            },
+            "edmDatasetName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "edmIsShownAt": [
+                "http://www.kb.dk/images/billed/2010/okt/billeder/object452460/en/"
+            ],
+            "edmIsShownBy": [
+                "http://kb-images.kb.dk/DAMJP2/DAM/Samlingsbilleder/0000/452/460/DP008897/full/full/0/native.jpg"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fkb-images.kb.dk%2FDAMJP2%2FDAM%2FSamlingsbilleder%2F0000%2F452%2F460%2FDP008897%2Ffull%2Ffull%2F0%2Fnative.jpg&type=IMAGE"
+            ],
+            "europeanaCollectionName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "europeanaCompleteness": 6,
+            "guid": "https://www.europeana.eu/item/92023/images_billed_2010_okt_billeder_object452460?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/92023/images_billed_2010_okt_billeder_object452460",
+            "index": 0,
+            "language": [
+                "da"
+            ],
+            "link": "https://api.europeana.eu/record/92023/images_billed_2010_okt_billeder_object452460.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "DK-National Aggregation Service"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 98.59447,
+            "timestamp": 1688602853262,
+            "timestamp_created": "2018-02-08T15:59:44.337Z",
+            "timestamp_created_epoch": 1518105584337,
+            "timestamp_update": "2018-06-13T06:53:28.894Z",
+            "timestamp_update_epoch": 1528872808894,
+            "title": [
+                "Emmy Fog",
+                "Emmy Fog",
+                "Emmy Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 6,
+            "country": [
+                "Denmark"
+            ],
+            "dataProvider": [
+                "The Royal Library: The National Library of Denmark and Copenhagen University Library"
+            ],
+            "dcDescription": [
+                "\u00c6gtef\u00e6lle: Fog, Carl, sognepr\u00e6st (1809-1885)",
+                "Spouse: Fog, Carl, parish priest (1809-1885)",
+                "\u00c6gtef\u00e6lle: Fog, Carl, sognepr\u00e6st (1809-1885)"
+            ],
+            "dcDescriptionLangAware": {
+                "def": [
+                    "\u00c6gtef\u00e6lle: Fog, Carl, sognepr\u00e6st (1809-1885)"
+                ],
+                "en": [
+                    "Spouse: Fog, Carl, parish priest (1809-1885)"
+                ],
+                "da": [
+                    "\u00c6gtef\u00e6lle: Fog, Carl, sognepr\u00e6st (1809-1885)"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Emmy Fog"
+                ],
+                "en": [
+                    "Emmy Fog"
+                ],
+                "da": [
+                    "Emmy Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/48"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                },
+                {
+                    "def": "Valokuva"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotoatt\u0113ls"
+                },
+                {
+                    "def": "Photographie"
+                },
+                {
+                    "def": "F\u00e9nyk\u00e9p"
+                },
+                {
+                    "def": "Fotograf"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Grianghraf"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                },
+                {
+                    "def": "Photograph"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotograf\u00eda"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Argazkilaritza"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Foto"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Fotografie"
+                ],
+                "ru": [
+                    "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                ],
+                "fi": [
+                    "Valokuva"
+                ],
+                "pt": [
+                    "Fotografia"
+                ],
+                "bg": [
+                    "\u0421\u043d\u0438\u043c\u043a\u0430"
+                ],
+                "lt": [
+                    "Fotografija"
+                ],
+                "hr": [
+                    "Fotografija"
+                ],
+                "lv": [
+                    "Fotoatt\u0113ls"
+                ],
+                "fr": [
+                    "Photographie"
+                ],
+                "hu": [
+                    "F\u00e9nyk\u00e9p"
+                ],
+                "sk": [
+                    "Fotograf"
+                ],
+                "sl": [
+                    "Fotografija"
+                ],
+                "ga": [
+                    "Grianghraf"
+                ],
+                "ca": [
+                    "Fotografia"
+                ],
+                "sv": [
+                    "Fotografi"
+                ],
+                "mt": [
+                    "Fotografija"
+                ],
+                "el": [
+                    "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                ],
+                "en": [
+                    "Photograph"
+                ],
+                "it": [
+                    "Foto"
+                ],
+                "es": [
+                    "Fotograf\u00eda"
+                ],
+                "et": [
+                    "Foto"
+                ],
+                "cs": [
+                    "Fotografie"
+                ],
+                "eu": [
+                    "Argazkilaritza"
+                ],
+                "pl": [
+                    "Fotografia"
+                ],
+                "da": [
+                    "Fotografi"
+                ],
+                "ro": [
+                    "Fotografie"
+                ],
+                "nl": [
+                    "Foto"
+                ]
+            },
+            "edmDatasetName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "edmIsShownAt": [
+                "http://www.kb.dk/images/billed/2010/okt/billeder/object452455/en/"
+            ],
+            "edmIsShownBy": [
+                "http://kb-images.kb.dk/DAMJP2/DAM/Samlingsbilleder/0000/452/455/DP008896/full/full/0/native.jpg"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fkb-images.kb.dk%2FDAMJP2%2FDAM%2FSamlingsbilleder%2F0000%2F452%2F455%2FDP008896%2Ffull%2Ffull%2F0%2Fnative.jpg&type=IMAGE"
+            ],
+            "europeanaCollectionName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "europeanaCompleteness": 6,
+            "guid": "https://www.europeana.eu/item/92023/images_billed_2010_okt_billeder_object452455?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/92023/images_billed_2010_okt_billeder_object452455",
+            "index": 0,
+            "language": [
+                "da"
+            ],
+            "link": "https://api.europeana.eu/record/92023/images_billed_2010_okt_billeder_object452455.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "DK-National Aggregation Service"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 98.59447,
+            "timestamp": 1688602852617,
+            "timestamp_created": "2018-02-08T15:59:44.003Z",
+            "timestamp_created_epoch": 1518105584003,
+            "timestamp_update": "2018-06-13T06:53:28.828Z",
+            "timestamp_update_epoch": 1528872808828,
+            "title": [
+                "Emmy Fog",
+                "Emmy Fog",
+                "Emmy Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 7,
+            "country": [
+                "Denmark"
+            ],
+            "dataProvider": [
+                "The Royal Library: The National Library of Denmark and Copenhagen University Library"
+            ],
+            "dcDescription": [
+                "\u00c6gtef\u00e6lle: Fog, B. J., biskop (1819-1896)  neg. 199461",
+                "Spouse: Fog, B. J., Bishop (1819-1896) no. 199461",
+                "\u00c6gtef\u00e6lle: Fog, B. J., biskop (1819-1896)  neg. 199461"
+            ],
+            "dcDescriptionLangAware": {
+                "def": [
+                    "\u00c6gtef\u00e6lle: Fog, B. J., biskop (1819-1896)  neg. 199461"
+                ],
+                "en": [
+                    "Spouse: Fog, B. J., Bishop (1819-1896) no. 199461"
+                ],
+                "da": [
+                    "\u00c6gtef\u00e6lle: Fog, B. J., biskop (1819-1896)  neg. 199461"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Fanny Fog"
+                ],
+                "en": [
+                    "Fanny Fog"
+                ],
+                "da": [
+                    "Fanny Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/48"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                },
+                {
+                    "def": "Valokuva"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotoatt\u0113ls"
+                },
+                {
+                    "def": "Photographie"
+                },
+                {
+                    "def": "F\u00e9nyk\u00e9p"
+                },
+                {
+                    "def": "Fotograf"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Grianghraf"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                },
+                {
+                    "def": "Photograph"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotograf\u00eda"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Argazkilaritza"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Foto"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Fotografie"
+                ],
+                "ru": [
+                    "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                ],
+                "fi": [
+                    "Valokuva"
+                ],
+                "pt": [
+                    "Fotografia"
+                ],
+                "bg": [
+                    "\u0421\u043d\u0438\u043c\u043a\u0430"
+                ],
+                "lt": [
+                    "Fotografija"
+                ],
+                "hr": [
+                    "Fotografija"
+                ],
+                "lv": [
+                    "Fotoatt\u0113ls"
+                ],
+                "fr": [
+                    "Photographie"
+                ],
+                "hu": [
+                    "F\u00e9nyk\u00e9p"
+                ],
+                "sk": [
+                    "Fotograf"
+                ],
+                "sl": [
+                    "Fotografija"
+                ],
+                "ga": [
+                    "Grianghraf"
+                ],
+                "ca": [
+                    "Fotografia"
+                ],
+                "sv": [
+                    "Fotografi"
+                ],
+                "mt": [
+                    "Fotografija"
+                ],
+                "el": [
+                    "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                ],
+                "en": [
+                    "Photograph"
+                ],
+                "it": [
+                    "Foto"
+                ],
+                "es": [
+                    "Fotograf\u00eda"
+                ],
+                "et": [
+                    "Foto"
+                ],
+                "cs": [
+                    "Fotografie"
+                ],
+                "eu": [
+                    "Argazkilaritza"
+                ],
+                "pl": [
+                    "Fotografia"
+                ],
+                "da": [
+                    "Fotografi"
+                ],
+                "ro": [
+                    "Fotografie"
+                ],
+                "nl": [
+                    "Foto"
+                ]
+            },
+            "edmDatasetName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "edmIsShownAt": [
+                "http://www.kb.dk/images/billed/2010/okt/billeder/object452464/en/"
+            ],
+            "edmIsShownBy": [
+                "http://kb-images.kb.dk/DAMJP2/DAM/Samlingsbilleder/0000/452/464/DP008898/full/full/0/native.jpg"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fkb-images.kb.dk%2FDAMJP2%2FDAM%2FSamlingsbilleder%2F0000%2F452%2F464%2FDP008898%2Ffull%2Ffull%2F0%2Fnative.jpg&type=IMAGE"
+            ],
+            "europeanaCollectionName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "europeanaCompleteness": 7,
+            "guid": "https://www.europeana.eu/item/92023/images_billed_2010_okt_billeder_object452464?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/92023/images_billed_2010_okt_billeder_object452464",
+            "index": 0,
+            "language": [
+                "da"
+            ],
+            "link": "https://api.europeana.eu/record/92023/images_billed_2010_okt_billeder_object452464.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "DK-National Aggregation Service"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 98.53413,
+            "timestamp": 1688602853801,
+            "timestamp_created": "2018-02-08T15:59:44.354Z",
+            "timestamp_created_epoch": 1518105584354,
+            "timestamp_update": "2018-06-13T06:53:28.907Z",
+            "timestamp_update_epoch": 1528872808907,
+            "title": [
+                "Fanny Fog",
+                "Fanny Fog",
+                "Fanny Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 7,
+            "country": [
+                "Denmark"
+            ],
+            "dataProvider": [
+                "The Royal Library: The National Library of Denmark and Copenhagen University Library"
+            ],
+            "dcDescription": [
+                "\u00c6gtef\u00e6lle: Fog, Carl David, sognepr\u00e6st (1812-1878)",
+                "Spouse: Fog, Carl David, parish priest (1812-1878)",
+                "\u00c6gtef\u00e6lle: Fog, Carl David, sognepr\u00e6st (1812-1878)"
+            ],
+            "dcDescriptionLangAware": {
+                "def": [
+                    "\u00c6gtef\u00e6lle: Fog, Carl David, sognepr\u00e6st (1812-1878)"
+                ],
+                "en": [
+                    "Spouse: Fog, Carl David, parish priest (1812-1878)"
+                ],
+                "da": [
+                    "\u00c6gtef\u00e6lle: Fog, Carl David, sognepr\u00e6st (1812-1878)"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Frederikke Fog"
+                ],
+                "en": [
+                    "Frederikke Fog"
+                ],
+                "da": [
+                    "Frederikke Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/48"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                },
+                {
+                    "def": "Valokuva"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotoatt\u0113ls"
+                },
+                {
+                    "def": "Photographie"
+                },
+                {
+                    "def": "F\u00e9nyk\u00e9p"
+                },
+                {
+                    "def": "Fotograf"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Grianghraf"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                },
+                {
+                    "def": "Photograph"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotograf\u00eda"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Argazkilaritza"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Foto"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Fotografie"
+                ],
+                "ru": [
+                    "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                ],
+                "fi": [
+                    "Valokuva"
+                ],
+                "pt": [
+                    "Fotografia"
+                ],
+                "bg": [
+                    "\u0421\u043d\u0438\u043c\u043a\u0430"
+                ],
+                "lt": [
+                    "Fotografija"
+                ],
+                "hr": [
+                    "Fotografija"
+                ],
+                "lv": [
+                    "Fotoatt\u0113ls"
+                ],
+                "fr": [
+                    "Photographie"
+                ],
+                "hu": [
+                    "F\u00e9nyk\u00e9p"
+                ],
+                "sk": [
+                    "Fotograf"
+                ],
+                "sl": [
+                    "Fotografija"
+                ],
+                "ga": [
+                    "Grianghraf"
+                ],
+                "ca": [
+                    "Fotografia"
+                ],
+                "sv": [
+                    "Fotografi"
+                ],
+                "mt": [
+                    "Fotografija"
+                ],
+                "el": [
+                    "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                ],
+                "en": [
+                    "Photograph"
+                ],
+                "it": [
+                    "Foto"
+                ],
+                "es": [
+                    "Fotograf\u00eda"
+                ],
+                "et": [
+                    "Foto"
+                ],
+                "cs": [
+                    "Fotografie"
+                ],
+                "eu": [
+                    "Argazkilaritza"
+                ],
+                "pl": [
+                    "Fotografia"
+                ],
+                "da": [
+                    "Fotografi"
+                ],
+                "ro": [
+                    "Fotografie"
+                ],
+                "nl": [
+                    "Foto"
+                ]
+            },
+            "edmDatasetName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "edmIsShownAt": [
+                "http://www.kb.dk/images/billed/2010/okt/billeder/object452475/en/"
+            ],
+            "edmIsShownBy": [
+                "http://kb-images.kb.dk/DAMJP2/DAM/Samlingsbilleder/0000/452/475/DP008907/full/full/0/native.jpg"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fkb-images.kb.dk%2FDAMJP2%2FDAM%2FSamlingsbilleder%2F0000%2F452%2F475%2FDP008907%2Ffull%2Ffull%2F0%2Fnative.jpg&type=IMAGE"
+            ],
+            "europeanaCollectionName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "europeanaCompleteness": 7,
+            "guid": "https://www.europeana.eu/item/92023/images_billed_2010_okt_billeder_object452475?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/92023/images_billed_2010_okt_billeder_object452475",
+            "index": 0,
+            "language": [
+                "da"
+            ],
+            "link": "https://api.europeana.eu/record/92023/images_billed_2010_okt_billeder_object452475.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "DK-National Aggregation Service"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 98.02625,
+            "timestamp": 1688602852944,
+            "timestamp_created": "2018-02-08T15:59:44.505Z",
+            "timestamp_created_epoch": 1518105584505,
+            "timestamp_update": "2018-06-13T06:53:29.095Z",
+            "timestamp_update_epoch": 1528872809095,
+            "title": [
+                "Frederikke Fog",
+                "Frederikke Fog",
+                "Frederikke Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 8,
+            "country": [
+                "Germany"
+            ],
+            "dataProvider": [
+                "Kunsthalle zu Kiel"
+            ],
+            "dcDescription": [
+                "Storage/location: Kiel Kiel Art Hall",
+                "Signatur: bezeichnet, betitelt und datiert (a. d. R\u00fcckseite: T. W\u00f6rsel/ 7 I 88/ Fog)  [Beschreibung]",
+                "Aufbewahrung/Standort: Kunsthalle zu Kiel Kiel",
+                "Technik: Acryl"
+            ],
+            "dcDescriptionLangAware": {
+                "de": [
+                    "Signatur: bezeichnet, betitelt und datiert (a. d. R\u00fcckseite: T. W\u00f6rsel/ 7 I 88/ Fog)  [Beschreibung]",
+                    "Aufbewahrung/Standort: Kunsthalle zu Kiel Kiel",
+                    "Technik: Acryl"
+                ],
+                "en": [
+                    "Storage/location: Kiel Kiel Art Hall"
+                ]
+            },
+            "dcTitleLangAware": {
+                "de": [
+                    "Fog"
+                ],
+                "en": [
+                    "Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/47"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Malerei"
+                },
+                {
+                    "def": "\u0416\u0438\u0432\u043e\u043f\u0438\u0441\u044c"
+                },
+                {
+                    "def": "Maalaustaide"
+                },
+                {
+                    "def": "Pintura"
+                },
+                {
+                    "def": "\u0416\u0438\u0432\u043e\u043f\u0438\u0441"
+                },
+                {
+                    "def": "Tapyba"
+                },
+                {
+                    "def": "Glezniec\u012bba"
+                },
+                {
+                    "def": "Slikarstvo"
+                },
+                {
+                    "def": "Peinture"
+                },
+                {
+                    "def": "Fest\u0151m\u0171v\u00e9szet"
+                },
+                {
+                    "def": "Maliarstvo"
+                },
+                {
+                    "def": "Slikarstvo"
+                },
+                {
+                    "def": "P\u00e9int\u00e9ireacht"
+                },
+                {
+                    "def": "Pintura"
+                },
+                {
+                    "def": "M\u00e5larkonst"
+                },
+                {
+                    "def": "Pittura"
+                },
+                {
+                    "def": "\u0396\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03ae"
+                },
+                {
+                    "def": "Art of painting"
+                },
+                {
+                    "def": "Pittura"
+                },
+                {
+                    "def": "Pintura"
+                },
+                {
+                    "def": "Maalikunst"
+                },
+                {
+                    "def": "Margolaritza"
+                },
+                {
+                    "def": "Mal\u00ed\u0159stv\u00ed"
+                },
+                {
+                    "def": "Malarstwo"
+                },
+                {
+                    "def": "Pictur\u0103"
+                },
+                {
+                    "def": "Malerkunst"
+                },
+                {
+                    "def": "Schilderkunst"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Malerei"
+                ],
+                "ru": [
+                    "\u0416\u0438\u0432\u043e\u043f\u0438\u0441\u044c"
+                ],
+                "fi": [
+                    "Maalaustaide"
+                ],
+                "pt": [
+                    "Pintura"
+                ],
+                "bg": [
+                    "\u0416\u0438\u0432\u043e\u043f\u0438\u0441"
+                ],
+                "lt": [
+                    "Tapyba"
+                ],
+                "lv": [
+                    "Glezniec\u012bba"
+                ],
+                "hr": [
+                    "Slikarstvo"
+                ],
+                "fr": [
+                    "Peinture"
+                ],
+                "hu": [
+                    "Fest\u0151m\u0171v\u00e9szet"
+                ],
+                "sk": [
+                    "Maliarstvo"
+                ],
+                "sl": [
+                    "Slikarstvo"
+                ],
+                "ga": [
+                    "P\u00e9int\u00e9ireacht"
+                ],
+                "ca": [
+                    "Pintura"
+                ],
+                "sv": [
+                    "M\u00e5larkonst"
+                ],
+                "mt": [
+                    "Pittura"
+                ],
+                "el": [
+                    "\u0396\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03ae"
+                ],
+                "en": [
+                    "Art of painting"
+                ],
+                "it": [
+                    "Pittura"
+                ],
+                "es": [
+                    "Pintura"
+                ],
+                "et": [
+                    "Maalikunst"
+                ],
+                "eu": [
+                    "Margolaritza"
+                ],
+                "cs": [
+                    "Mal\u00ed\u0159stv\u00ed"
+                ],
+                "pl": [
+                    "Malarstwo"
+                ],
+                "ro": [
+                    "Pictur\u0103"
+                ],
+                "da": [
+                    "Malerkunst"
+                ],
+                "nl": [
+                    "Schilderkunst"
+                ]
+            },
+            "edmDatasetName": [
+                "2023865_AG-EU_LinkedHeritage_DigiCult_eG"
+            ],
+            "edmIsShownAt": [
+                "http://www.museen-nord.de/Objekt/DE-MUS-076017/lido/1051"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdokbase.digicult-museen.net%2Feingabe%2Fbilder%2Fdata%2Fmitte%2F18%2F1051.jpg&type=IMAGE"
+            ],
+            "europeanaCollectionName": [
+                "2023865_AG-EU_LinkedHeritage_DigiCult_eG"
+            ],
+            "europeanaCompleteness": 8,
+            "guid": "https://www.europeana.eu/item/2023865/Objekt_DE_MUS_076017_lido_1051?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/2023865/Objekt_DE_MUS_076017_lido_1051",
+            "index": 0,
+            "language": [
+                "de"
+            ],
+            "link": "https://api.europeana.eu/record/2023865/Objekt_DE_MUS_076017_lido_1051.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "Linked Heritage"
+            ],
+            "rights": [
+                "http://rightsstatements.org/vocab/InC/1.0/"
+            ],
+            "score": 97.80074,
+            "timestamp": 1688677708074,
+            "timestamp_created": "2016-07-18T08:21:19.562Z",
+            "timestamp_created_epoch": 1468830079562,
+            "timestamp_update": "2016-07-29T11:08:21.305Z",
+            "timestamp_update_epoch": 1469790501305,
+            "title": [
+                "Fog",
+                "Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 10,
+            "country": [
+                "Italy"
+            ],
+            "dataProvider": [
+                "Provincial Library Magna Capitana"
+            ],
+            "dcDescription": [
+                "Cineriz presenta dietro la nebbia... la paura! Fog. Adrienne Barbeau, Jamie Lee Curtis, John Houseman ... [et al.], un film di John Carpentier. Prodotto da Debra Hill, sceneggiatura di John Carpentier e Debra Hill. Produttore esecutivo Charles B. Bloch, Entertainment discoveries inc., Eastmancolor, un film Avco embassy pictures, Cineriz distributori associati",
+                "Cineriz presenta dietro la nebbia... la paura! Fog. Adrienne Barbeau, Jamie Lee Curtis, John Houseman ... [et al.], un film di John Carpentier. Prodotto da Debra Hill, sceneggiatura di John Carpentier e Debra Hill. Produttore esecutivo Charles B. Bloch, Entertainment discoveries inc., Eastmancolor, un film Avco embassy pictures, Cineriz distributori associati"
+            ],
+            "dcDescriptionLangAware": {
+                "def": [
+                    "Cineriz presenta dietro la nebbia... la paura! Fog. Adrienne Barbeau, Jamie Lee Curtis, John Houseman ... [et al.], un film di John Carpentier. Prodotto da Debra Hill, sceneggiatura di John Carpentier e Debra Hill. Produttore esecutivo Charles B. Bloch, Entertainment discoveries inc., Eastmancolor, un film Avco embassy pictures, Cineriz distributori associati"
+                ],
+                "it": [
+                    "Cineriz presenta dietro la nebbia... la paura! Fog. Adrienne Barbeau, Jamie Lee Curtis, John Houseman ... [et al.], un film di John Carpentier. Prodotto da Debra Hill, sceneggiatura di John Carpentier e Debra Hill. Produttore esecutivo Charles B. Bloch, Entertainment discoveries inc., Eastmancolor, un film Avco embassy pictures, Cineriz distributori associati"
+                ]
+            },
+            "dcLanguage": [
+                "ita",
+                "it",
+                "ita"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "ita",
+                    "it",
+                    "ita"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Fog"
+                ],
+                "en": [
+                    "Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://culturaitalia.it/pico/thesaurus/4.2#beni_librari"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Book Heritage"
+                },
+                {
+                    "def": "Beni librari"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "en": [
+                    "Book Heritage"
+                ],
+                "it": [
+                    "Beni librari"
+                ]
+            },
+            "edmDatasetName": [
+                "446_CulturaItalia_InternetCulturale"
+            ],
+            "edmIsShownAt": [
+                "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3AFOG423328"
+            ],
+            "edmIsShownBy": [
+                "https://www.internetculturale.it/jmms/thumbnailProxy.jsp?type=normal&id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3AFOG423328"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.internetculturale.it%2Fjmms%2FthumbnailProxy.jsp%3Ftype%3Dweb%26id%3Doai%253Awww.internetculturale.sbn.it%252FTeca%253A20%253ANT0000%253AFOG423328&type=IMAGE"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "1981"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "zxx": [
+                    "1981"
+                ]
+            },
+            "europeanaCollectionName": [
+                "446_CulturaItalia_InternetCulturale"
+            ],
+            "europeanaCompleteness": 10,
+            "guid": "https://www.europeana.eu/item/446/FOG423328?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/446/FOG423328",
+            "index": 0,
+            "language": [
+                "it"
+            ],
+            "link": "https://api.europeana.eu/record/446/FOG423328.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "CulturaItalia"
+            ],
+            "rights": [
+                "http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+            ],
+            "score": 97.72422,
+            "timestamp": 1688607557653,
+            "timestamp_created": "2021-10-22T07:37:06.894Z",
+            "timestamp_created_epoch": 1634888226894,
+            "timestamp_update": "2021-10-22T07:37:06.894Z",
+            "timestamp_update_epoch": 1634888226894,
+            "title": [
+                "Fog",
+                "Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "1981"
+            ]
+        },
+        {
+            "completeness": 0,
+            "country": [
+                "Hungary"
+            ],
+            "dataProvider": [
+                "Pet\u0151fi Literary Museum"
+            ],
+            "dcCreator": [
+                "http://data.europeana.eu/agent/171821",
+                "http://viaf.org/viaf/84131379"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "http://data.europeana.eu/agent/171821",
+                    "http://viaf.org/viaf/84131379"
+                ]
+            },
+            "dcLanguage": [
+                "hun",
+                "hu"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "hun",
+                    "hu"
+                ]
+            },
+            "dcTitleLangAware": {
+                "en": [
+                    "Fog"
+                ],
+                "hu": [
+                    "Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://vocab.getty.edu/page/aat/300026451"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "poems"
+                },
+                {
+                    "def": "vers"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "en": [
+                    "poems"
+                ],
+                "hu": [
+                    "vers"
+                ]
+            },
+            "edmDatasetName": [
+                "174_Digiphil_Digital_Academy_of_Literature"
+            ],
+            "edmIsShownAt": [
+                "https://reader.dia.hu/online-reader/open?epubId=15484&component=Oravecz_Imre-Hej-00580&locale=hu"
+            ],
+            "edmIsShownBy": [
+                "https://opac.dia.hu/akfweb/rest/cover/thumbnail/opac3_pim_dia/solr/Oravecz_Imre-Hej-00580"
+            ],
+            "edmPlaceLabel": [
+                {
+                    "def": "Budapest"
+                }
+            ],
+            "edmPlaceLabelLangAware": {
+                "de": [
+                    "Budapest"
+                ]
+            },
+            "edmPlaceLatitude": [
+                "47.49835"
+            ],
+            "edmPlaceLongitude": [
+                "19.04045"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fopac.dia.hu%2Fakfweb%2Frest%2Fcover%2Fthumbnail%2Fopac3_pim_dia%2Fsolr%2FOravecz_Imre-Hej-00580&type=TEXT"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "2015-04-08"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "zxx": [
+                    "2015-04-08"
+                ]
+            },
+            "europeanaCollectionName": [
+                "174_Digiphil_Digital_Academy_of_Literature"
+            ],
+            "europeanaCompleteness": 0,
+            "guid": "https://www.europeana.eu/item/174/dia_Oravecz_Imre_Hej_00580?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/174/dia_Oravecz_Imre_Hej_00580",
+            "index": 0,
+            "language": [
+                "hu"
+            ],
+            "link": "https://api.europeana.eu/record/174/dia_Oravecz_Imre_Hej_00580.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "Digiphil"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+            ],
+            "score": 96.970184,
+            "timestamp": 1688639377546,
+            "timestamp_created": "2021-02-26T15:21:09.743Z",
+            "timestamp_created_epoch": 1614352869743,
+            "timestamp_update": "2021-02-26T15:21:09.743Z",
+            "timestamp_update_epoch": 1614352869743,
+            "title": [
+                "Fog",
+                "Fog"
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 5,
+            "country": [
+                "Denmark"
+            ],
+            "dataProvider": [
+                "The Danish Agency for Culture"
+            ],
+            "dcDescription": [
+                "Mogens Fog",
+                "Mogens Fog",
+                "Mogens Fog"
+            ],
+            "dcDescriptionLangAware": {
+                "def": [
+                    "Mogens Fog"
+                ],
+                "en": [
+                    "Mogens Fog"
+                ],
+                "da": [
+                    "Mogens Fog"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Mogens Fog"
+                ],
+                "en": [
+                    "Mogens Fog"
+                ],
+                "da": [
+                    "Mogens Fog"
+                ]
+            },
+            "edmDatasetName": [
+                "2058618_Ag_EU_LoCloud_KUAS"
+            ],
+            "edmIsShownAt": [
+                "https://www.kulturarv.dk/mussam/VisFotoFilm.action?fotoFilmId=471300"
+            ],
+            "edmIsShownBy": [
+                "https://www.kulturarv.dk/mussam/VisMIMEtypeobjekt.action?mimetypeobjektId=1822700"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.kulturarv.dk%2Fmussam%2FVisMIMEtypeobjekt.action%3FmimetypeobjektId%3D1822700&type=IMAGE"
+            ],
+            "europeanaCollectionName": [
+                "2058618_Ag_EU_LoCloud_KUAS"
+            ],
+            "europeanaCompleteness": 5,
+            "guid": "https://www.europeana.eu/item/2058618/object_KUAS_7478930?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/2058618/object_KUAS_7478930",
+            "index": 0,
+            "language": [
+                "da"
+            ],
+            "link": "https://api.europeana.eu/record/2058618/object_KUAS_7478930.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "LoCloud"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by/4.0/"
+            ],
+            "score": 96.96585,
+            "timestamp": 1688523764803,
+            "timestamp_created": "2015-09-11T08:40:50.149Z",
+            "timestamp_created_epoch": 1441960850149,
+            "timestamp_update": "2016-04-13T11:03:15.623Z",
+            "timestamp_update_epoch": 1460545395623,
+            "title": [
+                "Mogens Fog",
+                "Mogens Fog",
+                "Mogens Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 5,
+            "country": [
+                "Denmark"
+            ],
+            "dataProvider": [
+                "The Royal Library: The National Library of Denmark and Copenhagen University Library"
+            ],
+            "dcTitleLangAware": {
+                "def": [
+                    "Julie Fog"
+                ],
+                "en": [
+                    "Julie Fog"
+                ],
+                "da": [
+                    "Julie Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/48"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                },
+                {
+                    "def": "Valokuva"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "\u0421\u043d\u0438\u043c\u043a\u0430"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Fotoatt\u0113ls"
+                },
+                {
+                    "def": "Photographie"
+                },
+                {
+                    "def": "F\u00e9nyk\u00e9p"
+                },
+                {
+                    "def": "Fotograf"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "Grianghraf"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografija"
+                },
+                {
+                    "def": "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                },
+                {
+                    "def": "Photograph"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotograf\u00eda"
+                },
+                {
+                    "def": "Foto"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Argazkilaritza"
+                },
+                {
+                    "def": "Fotografia"
+                },
+                {
+                    "def": "Fotografi"
+                },
+                {
+                    "def": "Fotografie"
+                },
+                {
+                    "def": "Foto"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Fotografie"
+                ],
+                "ru": [
+                    "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+                ],
+                "fi": [
+                    "Valokuva"
+                ],
+                "pt": [
+                    "Fotografia"
+                ],
+                "bg": [
+                    "\u0421\u043d\u0438\u043c\u043a\u0430"
+                ],
+                "lt": [
+                    "Fotografija"
+                ],
+                "hr": [
+                    "Fotografija"
+                ],
+                "lv": [
+                    "Fotoatt\u0113ls"
+                ],
+                "fr": [
+                    "Photographie"
+                ],
+                "hu": [
+                    "F\u00e9nyk\u00e9p"
+                ],
+                "sk": [
+                    "Fotograf"
+                ],
+                "sl": [
+                    "Fotografija"
+                ],
+                "ga": [
+                    "Grianghraf"
+                ],
+                "ca": [
+                    "Fotografia"
+                ],
+                "sv": [
+                    "Fotografi"
+                ],
+                "mt": [
+                    "Fotografija"
+                ],
+                "el": [
+                    "\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1"
+                ],
+                "en": [
+                    "Photograph"
+                ],
+                "it": [
+                    "Foto"
+                ],
+                "es": [
+                    "Fotograf\u00eda"
+                ],
+                "et": [
+                    "Foto"
+                ],
+                "cs": [
+                    "Fotografie"
+                ],
+                "eu": [
+                    "Argazkilaritza"
+                ],
+                "pl": [
+                    "Fotografia"
+                ],
+                "da": [
+                    "Fotografi"
+                ],
+                "ro": [
+                    "Fotografie"
+                ],
+                "nl": [
+                    "Foto"
+                ]
+            },
+            "edmDatasetName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "edmIsShownAt": [
+                "http://www.kb.dk/images/billed/2010/okt/billeder/object452473/en/"
+            ],
+            "edmIsShownBy": [
+                "http://kb-images.kb.dk/DAMJP2/DAM/Samlingsbilleder/0000/452/473/DP008905/full/full/0/native.jpg"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fkb-images.kb.dk%2FDAMJP2%2FDAM%2FSamlingsbilleder%2F0000%2F452%2F473%2FDP008905%2Ffull%2Ffull%2F0%2Fnative.jpg&type=IMAGE"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "Second millenium AD"
+                },
+                {
+                    "def": "Second millenium AD, years 1001-2000"
+                },
+                {
+                    "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+                },
+                {
+                    "def": "1864"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "en": [
+                    "Second millenium AD",
+                    "Second millenium AD, years 1001-2000"
+                ],
+                "zxx": [
+                    "1864"
+                ],
+                "fr": [
+                    "2e mill\u00e9naire apr\u00e8s J.-C."
+                ]
+            },
+            "europeanaCollectionName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "europeanaCompleteness": 5,
+            "guid": "https://www.europeana.eu/item/92023/images_billed_2010_okt_billeder_object452473?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/92023/images_billed_2010_okt_billeder_object452473",
+            "index": 0,
+            "language": [
+                "da"
+            ],
+            "link": "https://api.europeana.eu/record/92023/images_billed_2010_okt_billeder_object452473.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "DK-National Aggregation Service"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 96.938934,
+            "timestamp": 1688602854024,
+            "timestamp_created": "2018-02-08T15:59:44.531Z",
+            "timestamp_created_epoch": 1518105584531,
+            "timestamp_update": "2018-06-13T06:53:29.106Z",
+            "timestamp_update_epoch": 1528872809106,
+            "title": [
+                "Julie Fog",
+                "Julie Fog",
+                "Julie Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "1864"
+            ]
+        },
+        {
+            "completeness": 5,
+            "country": [
+                "Denmark"
+            ],
+            "dataProvider": [
+                "The Royal Library: The National Library of Denmark and Copenhagen University Library"
+            ],
+            "dcCreator": [
+                "Lollesgaard, Hans (1923-1993) bladtegner"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "Lollesgaard, Hans (1923-1993) bladtegner"
+                ]
+            },
+            "dcDescription": [
+                "Tusch, pen",
+                "Tusch, pen"
+            ],
+            "dcDescriptionLangAware": {
+                "def": [
+                    "Tusch, pen"
+                ],
+                "en": [
+                    "Tusch, pen"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Mogens Fog"
+                ],
+                "en": [
+                    "Mogens Fog"
+                ],
+                "da": [
+                    "Mogens Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/35"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Zeichnung"
+                },
+                {
+                    "def": "Piirustus"
+                },
+                {
+                    "def": "\u0420\u0438\u0441\u0443\u043d\u043e\u043a"
+                },
+                {
+                    "def": "Desenho"
+                },
+                {
+                    "def": "\u0420\u0438\u0441\u0443\u043d\u043a\u0430"
+                },
+                {
+                    "def": "Pie\u0161imas"
+                },
+                {
+                    "def": "Z\u012bm\u0113jums"
+                },
+                {
+                    "def": "Crte\u017e"
+                },
+                {
+                    "def": "Dessin"
+                },
+                {
+                    "def": "Rajz"
+                },
+                {
+                    "def": "Kresba"
+                },
+                {
+                    "def": "Risba"
+                },
+                {
+                    "def": "L\u00edn\u00edocht"
+                },
+                {
+                    "def": "Dibuix"
+                },
+                {
+                    "def": "Teckning"
+                },
+                {
+                    "def": "\u03a3\u03c7\u03ad\u03b4\u03b9\u03bf"
+                },
+                {
+                    "def": "Drawing"
+                },
+                {
+                    "def": "Disegno"
+                },
+                {
+                    "def": "Dibujo"
+                },
+                {
+                    "def": "Joonistus"
+                },
+                {
+                    "def": "Kresba"
+                },
+                {
+                    "def": "Marrazki"
+                },
+                {
+                    "def": "Rysunek"
+                },
+                {
+                    "def": "Desen"
+                },
+                {
+                    "def": "Tegning"
+                },
+                {
+                    "def": "Tekening"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Zeichnung"
+                ],
+                "fi": [
+                    "Piirustus"
+                ],
+                "ru": [
+                    "\u0420\u0438\u0441\u0443\u043d\u043e\u043a"
+                ],
+                "pt": [
+                    "Desenho"
+                ],
+                "bg": [
+                    "\u0420\u0438\u0441\u0443\u043d\u043a\u0430"
+                ],
+                "lt": [
+                    "Pie\u0161imas"
+                ],
+                "lv": [
+                    "Z\u012bm\u0113jums"
+                ],
+                "hr": [
+                    "Crte\u017e"
+                ],
+                "fr": [
+                    "Dessin"
+                ],
+                "hu": [
+                    "Rajz"
+                ],
+                "sk": [
+                    "Kresba"
+                ],
+                "sl": [
+                    "Risba"
+                ],
+                "ga": [
+                    "L\u00edn\u00edocht"
+                ],
+                "ca": [
+                    "Dibuix"
+                ],
+                "sv": [
+                    "Teckning"
+                ],
+                "el": [
+                    "\u03a3\u03c7\u03ad\u03b4\u03b9\u03bf"
+                ],
+                "en": [
+                    "Drawing"
+                ],
+                "it": [
+                    "Disegno"
+                ],
+                "es": [
+                    "Dibujo"
+                ],
+                "et": [
+                    "Joonistus"
+                ],
+                "cs": [
+                    "Kresba"
+                ],
+                "eu": [
+                    "Marrazki"
+                ],
+                "pl": [
+                    "Rysunek"
+                ],
+                "ro": [
+                    "Desen"
+                ],
+                "da": [
+                    "Tegning"
+                ],
+                "nl": [
+                    "Tekening"
+                ]
+            },
+            "edmDatasetName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "edmIsShownAt": [
+                "http://www.kb.dk/images/billed/2010/okt/billeder/object339871/en/"
+            ],
+            "edmIsShownBy": [
+                "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_3/non-archival/Images/BLADTE/Hans_Lollesgaard/db_hans_lollesgaard_01786/full/full/0/native.jpg"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fkb-images.kb.dk%2FDAMJP2%2Fonline_master_arkiv_3%2Fnon-archival%2FImages%2FBLADTE%2FHans_Lollesgaard%2Fdb_hans_lollesgaard_01786%2Ffull%2Ffull%2F0%2Fnative.jpg&type=IMAGE"
+            ],
+            "europeanaCollectionName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "europeanaCompleteness": 5,
+            "guid": "https://www.europeana.eu/item/92023/images_billed_2010_okt_billeder_object339871?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/92023/images_billed_2010_okt_billeder_object339871",
+            "index": 0,
+            "language": [
+                "da"
+            ],
+            "link": "https://api.europeana.eu/record/92023/images_billed_2010_okt_billeder_object339871.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "DK-National Aggregation Service"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 96.90689,
+            "timestamp": 1688602092720,
+            "timestamp_created": "2018-02-08T15:37:51.902Z",
+            "timestamp_created_epoch": 1518104271902,
+            "timestamp_update": "2018-06-13T06:34:36.095Z",
+            "timestamp_update_epoch": 1528871676095,
+            "title": [
+                "Mogens Fog",
+                "Mogens Fog",
+                "Mogens Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 5,
+            "country": [
+                "Denmark"
+            ],
+            "dataProvider": [
+                "The Royal Library: The National Library of Denmark and Copenhagen University Library"
+            ],
+            "dcCreator": [
+                "Christensen, Otto (1898-1982) tegner, maler"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "Christensen, Otto (1898-1982) tegner, maler"
+                ]
+            },
+            "dcDescription": [
+                "Oliekridt",
+                "Oil War",
+                "Oliekridt"
+            ],
+            "dcDescriptionLangAware": {
+                "def": [
+                    "Oliekridt"
+                ],
+                "en": [
+                    "Oil War"
+                ],
+                "da": [
+                    "Oliekridt"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Mogens Fog"
+                ],
+                "en": [
+                    "Mogens Fog"
+                ],
+                "da": [
+                    "Mogens Fog"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/35"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Zeichnung"
+                },
+                {
+                    "def": "Piirustus"
+                },
+                {
+                    "def": "\u0420\u0438\u0441\u0443\u043d\u043e\u043a"
+                },
+                {
+                    "def": "Desenho"
+                },
+                {
+                    "def": "\u0420\u0438\u0441\u0443\u043d\u043a\u0430"
+                },
+                {
+                    "def": "Pie\u0161imas"
+                },
+                {
+                    "def": "Z\u012bm\u0113jums"
+                },
+                {
+                    "def": "Crte\u017e"
+                },
+                {
+                    "def": "Dessin"
+                },
+                {
+                    "def": "Rajz"
+                },
+                {
+                    "def": "Kresba"
+                },
+                {
+                    "def": "Risba"
+                },
+                {
+                    "def": "L\u00edn\u00edocht"
+                },
+                {
+                    "def": "Dibuix"
+                },
+                {
+                    "def": "Teckning"
+                },
+                {
+                    "def": "\u03a3\u03c7\u03ad\u03b4\u03b9\u03bf"
+                },
+                {
+                    "def": "Drawing"
+                },
+                {
+                    "def": "Disegno"
+                },
+                {
+                    "def": "Dibujo"
+                },
+                {
+                    "def": "Joonistus"
+                },
+                {
+                    "def": "Kresba"
+                },
+                {
+                    "def": "Marrazki"
+                },
+                {
+                    "def": "Rysunek"
+                },
+                {
+                    "def": "Desen"
+                },
+                {
+                    "def": "Tegning"
+                },
+                {
+                    "def": "Tekening"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Zeichnung"
+                ],
+                "fi": [
+                    "Piirustus"
+                ],
+                "ru": [
+                    "\u0420\u0438\u0441\u0443\u043d\u043e\u043a"
+                ],
+                "pt": [
+                    "Desenho"
+                ],
+                "bg": [
+                    "\u0420\u0438\u0441\u0443\u043d\u043a\u0430"
+                ],
+                "lt": [
+                    "Pie\u0161imas"
+                ],
+                "lv": [
+                    "Z\u012bm\u0113jums"
+                ],
+                "hr": [
+                    "Crte\u017e"
+                ],
+                "fr": [
+                    "Dessin"
+                ],
+                "hu": [
+                    "Rajz"
+                ],
+                "sk": [
+                    "Kresba"
+                ],
+                "sl": [
+                    "Risba"
+                ],
+                "ga": [
+                    "L\u00edn\u00edocht"
+                ],
+                "ca": [
+                    "Dibuix"
+                ],
+                "sv": [
+                    "Teckning"
+                ],
+                "el": [
+                    "\u03a3\u03c7\u03ad\u03b4\u03b9\u03bf"
+                ],
+                "en": [
+                    "Drawing"
+                ],
+                "it": [
+                    "Disegno"
+                ],
+                "es": [
+                    "Dibujo"
+                ],
+                "et": [
+                    "Joonistus"
+                ],
+                "cs": [
+                    "Kresba"
+                ],
+                "eu": [
+                    "Marrazki"
+                ],
+                "pl": [
+                    "Rysunek"
+                ],
+                "ro": [
+                    "Desen"
+                ],
+                "da": [
+                    "Tegning"
+                ],
+                "nl": [
+                    "Tekening"
+                ]
+            },
+            "edmDatasetName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "edmIsShownAt": [
+                "http://www.kb.dk/images/billed/2010/okt/billeder/object334459/en/"
+            ],
+            "edmIsShownBy": [
+                "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_8/non-archival/Images/BLADTE/otto_c/db_otto_c_00018/full/full/0/native.jpg"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fkb-images.kb.dk%2FDAMJP2%2Fonline_master_arkiv_8%2Fnon-archival%2FImages%2FBLADTE%2Fotto_c%2Fdb_otto_c_00018%2Ffull%2Ffull%2F0%2Fnative.jpg&type=IMAGE"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "Second millenium AD"
+                },
+                {
+                    "def": "Second millenium AD, years 1001-2000"
+                },
+                {
+                    "def": "20-th"
+                },
+                {
+                    "def": "20th"
+                },
+                {
+                    "def": "20th century"
+                },
+                {
+                    "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+                },
+                {
+                    "def": "20e si\u00e8cle"
+                },
+                {
+                    "def": "1966"
+                },
+                {
+                    "def": "20\u0439 \u0432\u0435\u043a"
+                },
+                {
+                    "def": "20.."
+                },
+                {
+                    "def": "20??"
+                },
+                {
+                    "def": "20e"
+                },
+                {
+                    "def": "20de eeuw"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "ru": [
+                    "20\u0439 \u0432\u0435\u043a"
+                ],
+                "def": [
+                    "20..",
+                    "20??",
+                    "20e"
+                ],
+                "en": [
+                    "Second millenium AD",
+                    "Second millenium AD, years 1001-2000",
+                    "20-th",
+                    "20th",
+                    "20th century"
+                ],
+                "zxx": [
+                    "1966"
+                ],
+                "fr": [
+                    "2e mill\u00e9naire apr\u00e8s J.-C.",
+                    "20e si\u00e8cle"
+                ],
+                "nl": [
+                    "20de eeuw"
+                ]
+            },
+            "europeanaCollectionName": [
+                "92023_Ag_DK_kb.billeder"
+            ],
+            "europeanaCompleteness": 5,
+            "guid": "https://www.europeana.eu/item/92023/images_billed_2010_okt_billeder_object334459?utm_source=api&utm_medium=api&utm_campaign=jefielodema",
+            "id": "/92023/images_billed_2010_okt_billeder_object334459",
+            "index": 0,
+            "language": [
+                "da"
+            ],
+            "link": "https://api.europeana.eu/record/92023/images_billed_2010_okt_billeder_object334459.json?wskey=jefielodema",
+            "previewNoDistribute": false,
+            "provider": [
+                "DK-National Aggregation Service"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 96.84015,
+            "timestamp": 1688602052606,
+            "timestamp_created": "2018-02-08T15:36:11.404Z",
+            "timestamp_created_epoch": 1518104171404,
+            "timestamp_update": "2018-06-13T06:33:16.867Z",
+            "timestamp_update_epoch": 1528871596867,
+            "title": [
+                "Mogens Fog",
+                "Mogens Fog",
+                "Mogens Fog"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "1966"
+            ]
+        }
+    ]
+}
