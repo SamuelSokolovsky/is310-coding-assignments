@@ -1,0 +1,1 @@
+In this analysis I looked at the Goodreads Top 500 novels and analyzed parts of the dataset to draw conclusions and help generate idead towards future research.
